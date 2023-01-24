@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fax-sender-react/static/css/main.0c654d28.css",
+    "main.js": "/fax-sender-react/static/js/main.f47881e5.js",
+    "static/js/787.aa76278f.chunk.js": "/fax-sender-react/static/js/787.aa76278f.chunk.js",
+    "index.html": "/fax-sender-react/index.html",
+    "main.0c654d28.css.map": "/fax-sender-react/static/css/main.0c654d28.css.map",
+    "main.f47881e5.js.map": "/fax-sender-react/static/js/main.f47881e5.js.map",
+    "787.aa76278f.chunk.js.map": "/fax-sender-react/static/js/787.aa76278f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c654d28.css",
+    "static/js/main.f47881e5.js"
+  ]
+}
